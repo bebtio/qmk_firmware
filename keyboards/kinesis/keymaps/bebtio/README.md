@@ -1,3 +1,6 @@
+# For information
+python3 -m pip install --user qmk
+
 # To set up environment
 
 From root dir:
