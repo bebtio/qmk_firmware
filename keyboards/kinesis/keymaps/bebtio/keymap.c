@@ -5,7 +5,7 @@
 
 #define QWERTY 0 // Base qwerty
 #define KEYPAD 1 // What it sounds like.
-#define PRGRAM 1 // Common programming stuff around the right hand homerow.
+#define PRGRAM 2 // Common programming stuff around the right hand homerow.
 
 /****************************************************************************************************
 *
