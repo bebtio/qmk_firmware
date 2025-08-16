@@ -1,4 +1,6 @@
 # For information
+https://docs.qmk.fm/keycodes_basic
+
 python3 -m pip install --user qmk
 
 # To set up environment
